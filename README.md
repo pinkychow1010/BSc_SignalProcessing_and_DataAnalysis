@@ -1,7 +1,7 @@
 # Signal Processing and Data Analysis
-This repository includes the submitted assignments for university class in Signal Processing and Data Analysis in form of Jupyter notebook. 
+This repository includes the submitted assignments for university classes in Signal Processing and Data Analysis in form of Jupyter notebook and MATLAB file. 
 
-### The class are namely:
+### The classes are namely:
 * Robot Design (Python) - University College Freiburg
   * Coding for an asbestos detection robot
 * Estimation Theory and Remote Sensing in Geoscience Project (Python) - Karlsruhe Institute of Technology
